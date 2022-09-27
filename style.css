@@ -1,0 +1,33 @@
+
+
+@font-face {
+    font-family: fontDiferente;
+    src: url(fontes/idroid.otf);
+  }
+
+header{
+    text-align: center;
+    
+}
+
+
+#conteudo h1{       
+    font-family: fontDiferente;
+    color: green;
+}
+
+#conteudo h2{       
+    font-family: fontDiferente;
+    color: green;
+    background-color: lightgreen;
+}
+
+#extra_cabecalho h2{
+    background-color: green;
+}
+
+#extra_conteudo{
+    background-color: lightblue;
+}
+
+    
